@@ -16,7 +16,14 @@
 <h3 align="center"><u>FS22_HudColor</u></h3>
 
 <p align="center">
-    tbd
+    With this mod you can change the color of the players-hud. There are a total of 6 colors to choose from. Choose one of:<br />
+- Default (blue)<br />
+- rose<br />
+- orange<br />
+- red<br />
+- gray<br />
+- green<br />
+<br />
 </p>
 
 </div>
