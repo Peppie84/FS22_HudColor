@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+  <translationContributors>Peppie84</translationContributors>
+  <elements>
+    <e k="mod_title" v="HudColor"/>
+    <e k="settings_hud_color_label" v="Hud Farbe"/>
+    <e k="settings_hud_color_label_needs_restart" v="(Neustart des Spielstandes erforderlich !!)"/>
+    <e k="settings_hud_color_description" v="Wechsel die Farbe des Huds auf ein anderes Preset. !! Es muss danach ein Neustart des Spielstandes gemacht werden !!"/>
+    <e k="settings_hud_color_option1" v="Default (blau)"/>
+    <e k="settings_hud_color_option2" v="rosa"/>
+    <e k="settings_hud_color_option3" v="orange"/>
+    <e k="settings_hud_color_option4" v="rot"/>
+    <e k="settings_hud_color_option5" v="grau"/>
+    <e k="settings_hud_color_option6" v="grün"/>
+  </elements>
+</l10n>

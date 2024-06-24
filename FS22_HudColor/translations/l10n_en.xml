@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+  <translationContributors>Peppie84</translationContributors>
+  <elements>
+    <e k="mod_title" v="HudColor"/>
+    <e k="settings_hud_color_label" v="Hud color"/>
+    <e k="settings_hud_color_label_needs_restart" v="(Restart of the save is needed !!)"/>
+    <e k="settings_hud_color_description" v="Change the color of the hud to another preset. !! After change, you have to restart the save !!"/>
+    <e k="settings_hud_color_option1" v="Default (blue)"/>
+    <e k="settings_hud_color_option2" v="rose"/>
+    <e k="settings_hud_color_option3" v="orange"/>
+    <e k="settings_hud_color_option4" v="red"/>
+    <e k="settings_hud_color_option5" v="gray"/>
+    <e k="settings_hud_color_option6" v="green"/>
+  </elements>
+</l10n>
