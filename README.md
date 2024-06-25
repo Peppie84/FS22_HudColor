@@ -3,6 +3,7 @@
 <div align="center">
 
 [![FarmingSimulator-22](https://img.shields.io/badge/FarmingSimulator-22-blue?style=flat-square)](https://www.farming-simulator.com/)
+[![Modhub Version](https://img.shields.io/badge/Modhub-v1.0.0.0-green?style=flat-square)]( !! MOD HUB LINK !! )
 [![GitHub issues](https://img.shields.io/github/issues/Peppie84/FS22_HudColor?style=flat-square)](https://github.com/Peppie84/FS22_HudColor/issues)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 [![Last commit](https://img.shields.io/github/last-commit/Peppie84/FS22_HudColor?style=flat-square&color=important)](https://github.com/Peppie84/FS22_HudColor/commits/development)
@@ -16,14 +17,13 @@
 <h3 align="center"><u>FS22_HudColor</u></h3>
 
 <p align="center">
-    With this mod you can change the color of the players-hud.<br />There are a total of 6 colors to choose from. Choose one of:<br />
+    With this mod you can change the color of the players-hud. There are a total of 6 colors to choose from. Choose one of:<br />
 - Default (blue)<br />
 - rose<br />
 - orange<br />
 - red<br />
 - gray<br />
 - green<br />
-<br />
 </p>
 
 </div>
