@@ -1,15 +1,13 @@
 ---
--- COLOR_HUD
+-- HUD_COLOR
 --
--- Main class for activating the vanilla temperature information box
--- and changed the information text elements.
+-- Main class to set the choosen preset into the color variables.
 --
 -- Copyright (c) Peppie84, 2024
+-- https://github.com/Peppie84/FS22_HudColor
 --
 ---@type string directory of the mod.
 local modDirectory = g_currentModDirectory or ''
----@type string name of the mod.
-local modName = g_currentModName or 'unknown'
 
 COLOR_PRESETS = {
     [1] = {
