@@ -6,6 +6,7 @@
 -- value in the modSettings-folder.
 --
 -- Copyright (c) Peppie84, 2024
+-- https://github.com/Peppie84/FS22_HudColor
 --
 HudColorGui = {
     MOD_DIRECTORY = g_currentModDirectory,

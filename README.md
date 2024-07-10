@@ -3,6 +3,7 @@
 <div align="center">
 
 [![FarmingSimulator-22](https://img.shields.io/badge/FarmingSimulator-22-blue?style=flat-square)](https://www.farming-simulator.com/)
+[![Modhub Version](https://img.shields.io/badge/Modhub-v1.0.0.0-green?style=flat-square)](https://www.farming-simulator.com/mod.php?mod_id=295129)
 [![GitHub issues](https://img.shields.io/github/issues/Peppie84/FS22_HudColor?style=flat-square)](https://github.com/Peppie84/FS22_HudColor/issues)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 [![Last commit](https://img.shields.io/github/last-commit/Peppie84/FS22_HudColor?style=flat-square&color=important)](https://github.com/Peppie84/FS22_HudColor/commits/development)
@@ -16,7 +17,13 @@
 <h3 align="center"><u>FS22_HudColor</u></h3>
 
 <p align="center">
-    tbd
+    Mit dieser Mod kann das Spieler-Hud in eine andere Farbe gefärbt werden. Zur Auswahl stehen insgesamt 6 Farben. Wähle zwischen:<br />
+- Default (blau)<br />
+- rosa<br />
+- orange<br />
+- rot<br />
+- grau<br />
+- grün<br />
 </p>
 
 </div>
