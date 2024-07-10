@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no" ?>
+<giantsDebuggerProject>
+    <projectName>FS22_HudColor</projectName>
+    <projectBaseDirectory>FS22_HudColor/</projectBaseDirectory>
+    <excludePaths></excludePaths>
+    <gameUserProfileAppDirectory>%gameuserprofile%/FarmingSimulator2022/</gameUserProfileAppDirectory>
+    <gameSourceDirectory>D:/Steam/steamapps/common/Farming Simulator 22/</gameSourceDirectory>
+    <scriptBinding></scriptBinding>
+    <launchWorkingDirectory>D:/Steam/steamapps/common/Farming Simulator 22/</launchWorkingDirectory>
+    <launchExecutable>D:/Steam/steamapps/common/Farming Simulator 22/x64/FarmingSimulator2022Game.exe</launchExecutable>
+    <launchParameters></launchParameters>
+</giantsDebuggerProject>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="80">
+  <author>Peppie84</author>
+  <version>1.0.0.0</version>
+  <title>
+    <en>Hud Color</en>
+    <de>Hud Einfärben</de>
+  </title>
+  <description>
+    <en><![CDATA[
+With this mod you can change the color of the players-hud. There are a total of 6 colors to choose from. Choose one of:
+- Default (blue)
+- rose
+- orange
+- red
+- gray
+- green
+
+For more information, help, and reporting issues please visit <a href='https://github.com/Peppie84/FS22_HudColor'>GitHub</a>.
+]]></en>
+    <de><![CDATA[
+Mit dieser Mod kann das Spieler-Hud in eine andere Farbe gefärbt werden. Zur Auswahl stehen insgesamt 6 Farben. Wähle zwischen:
+- Default (blau)
+- rosa
+- orange
+- rot
+- grau
+- grün
+
+Weitere Informationen, Hilfe und Probleme melden findest Du unter <a href='https://github.com/Peppie84/FS22_HudColor'>GitHub</a>.
+]]></de>
+  </description>
+  <iconFilename>icon_HudColor.dds</iconFilename>
+  <multiplayer supported="true" />
+  <extraSourceFiles>
+    <sourceFile filename="src/main.lua" />
+  </extraSourceFiles>
+  <l10n filenamePrefix="translations/l10n" />
+</modDesc>
