@@ -17,7 +17,7 @@ With this mod you can change the color of the players-hud. There are a total of 
 - green
 
 For more information, help, and reporting issues please visit <a href='https://github.com/Peppie84/FS22_HudColor'>GitHub</a>.
-]]>    </en>
+]]></en>
     <de><![CDATA[
 Mit dieser Mod kann das Spieler-Hud in eine andere Farbe gefärbt werden. Zur Auswahl stehen insgesamt 6 Farben. Wähle zwischen:
 - Default (blau)
@@ -28,7 +28,7 @@ Mit dieser Mod kann das Spieler-Hud in eine andere Farbe gefärbt werden. Zur Au
 - grün
 
 Weitere Informationen, Hilfe und Probleme melden findest Du unter <a href='https://github.com/Peppie84/FS22_HudColor'>GitHub</a>.
-]]>    </de>
+]]></de>
   </description>
   <iconFilename>icon_HudColor.dds</iconFilename>
   <multiplayer supported="true" />
