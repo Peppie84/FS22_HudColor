@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <modDesc descVersion="80">
   <author>Peppie84</author>
-  <version>1.0.0.0</version>
+  <version>1.0.0.1</version>
   <title>
     <en>Hud Color</en>
     <de>Hud Einfärben</de>
@@ -16,6 +16,9 @@ With this mod you can change the color of the players-hud. There are a total of 
 - gray
 - green
 
+Changelog v1.0.0.1
+- Fix for saving the HudColor settings on mac
+
 For more information, help, and reporting issues please visit <a href='https://github.com/Peppie84/FS22_HudColor'>GitHub</a>.
 ]]></en>
     <de><![CDATA[
@@ -26,6 +29,9 @@ Mit dieser Mod kann das Spieler-Hud in eine andere Farbe gefärbt werden. Zur Au
 - rot
 - grau
 - grün
+
+Changelog v1.0.0.1
+- Fix für das Speichern der HudColor-Settings auf Macs
 
 Weitere Informationen, Hilfe und Probleme melden findest Du unter <a href='https://github.com/Peppie84/FS22_HudColor'>GitHub</a>.
 ]]></de>
