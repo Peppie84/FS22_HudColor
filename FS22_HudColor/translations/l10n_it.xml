@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+  <translationContributors>Rudolfet</translationContributors>
+  <elements>
+    <e k="mod_title" v="HudColor"/>
+    <e k="settings_hud_color_label" v="Colore HUD"/>
+    <e k="settings_hud_color_label_needs_restart" v="(È necessario riavviare il salvataggio!!)"/>
+    <e k="settings_hud_color_description" v="Cambiare il colore dell'HUD con un altro preset. !!! Dopo la modifica, è necessario riavviare il salvataggio !!!"/>
+    <e k="settings_hud_color_option1" v="Predefinito (blu)"/>
+    <e k="settings_hud_color_option2" v="rosa"/>
+    <e k="settings_hud_color_option3" v="arancio"/>
+    <e k="settings_hud_color_option4" v="rosso"/>
+    <e k="settings_hud_color_option5" v="grigio"/>
+    <e k="settings_hud_color_option6" v="verde"/>
+  </elements>
+</l10n>
