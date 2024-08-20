@@ -5,7 +5,7 @@
     <e k="mod_title" v="HudColor"/>
     <e k="settings_hud_color_label" v="Couleur HUD"/>
     <e k="settings_hud_color_label_needs_restart" v="(Il est nécessaire de redémarrer la sauvegarde !!)"/>
-    <e k="settings_hud_color_description" v="Changer la couleur du HUD pour un autre préréglage !!! Après le changement, vous devez redémarrer la sauvegarde !!!"/>
+    <e k="settings_hud_color_description" v="Changer la couleur du HUD pour un autre préréglage. !!! Après le changement, vous devez redémarrer la sauvegarde !!!"/>
     <e k="settings_hud_color_option1" v="Défaut (bleu)"/>
     <e k="settings_hud_color_option2" v="rose"/>
     <e k="settings_hud_color_option3" v="orange"/>
